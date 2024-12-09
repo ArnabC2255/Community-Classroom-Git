@@ -1,1 +1,1 @@
-This line was changed to show na example of merge conflict.
+- Aman changed line 1.
