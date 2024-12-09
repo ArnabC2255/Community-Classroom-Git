@@ -1,2 +1,3 @@
 Hello 2536123
 Bye
+This an example to make a merge conflict.
